@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![GitHub Streak](https://streak-stats.demolab.com?user=helloswati&theme=github-dark-blue)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=helloswati)](https://github.com/helloswati/github-readme-stats)
