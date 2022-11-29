@@ -17,3 +17,10 @@ Here are some ideas to get you started:
 [![GitHub Streak](https://streak-stats.demolab.com?user=helloswati&theme=github-dark-blue)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=helloswati&theme=tokyonight)](https://github.com/helloswati/github-readme-stats)
+
+
+![Swati GitHub stats](https://github-readme-stats.vercel.app/api?username=helloswati&count_private=true&show_icons=true&theme=jolly)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=helloswati) -->
+
+
+![](https://komarev.com/ghpvc/?username=helloswati)
